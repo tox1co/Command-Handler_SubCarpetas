@@ -20,7 +20,7 @@ npm install
 > en *util/config.json*
 > puede cambiar el prefix del bot
 
-## prender eo bot
+## prender el bot
 
 despues de configurar su token y el prefix del bot puede ejecutar:
 ```
