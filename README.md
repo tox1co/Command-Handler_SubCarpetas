@@ -1,6 +1,6 @@
 # Command-Handler_SubCarpetas
 
-##instalacion
+## instalacion
 primero clona el repositorio 
 ```
 git clone https://github.com/tox1co/Command-Handler_SubCarpetas.git
@@ -20,7 +20,7 @@ npm install
 > en *util/config.json*
 > puede cambiar el prefix del bot
 
-##prenderlo
+## prender eo bot
 
 despues de configurar su token y el prefix del p
 bot puede ejecutar el comando
