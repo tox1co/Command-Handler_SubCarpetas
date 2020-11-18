@@ -1,0 +1,28 @@
+{
+  "name": "Command-Handler_subCarpetas",
+  "version": "1.0.0",
+  "description": "un simple ejemplo de command handler por sub carpetas",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon imdex.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tox1co/Command-Handler_SubCarpetas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tox1co/Command-Handler_SubCarpetas/issues"
+  },
+  "homepage": "https://github.com/tox1co/Command-Handler_SubCarpetas#readme",
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
